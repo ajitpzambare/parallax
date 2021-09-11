@@ -117,6 +117,7 @@
       height: 400px;
       width: 100%;
     }
+    
   }
   .newimg {
     margin: 25px;
@@ -132,6 +133,7 @@
     padding-bottom: 350px;
     margin-bottom: 0;
     background-image: url("image1.jpg");
+    background-attachment: fixed;
     
     background-size: 100% 100vh;
   background-position: center;
